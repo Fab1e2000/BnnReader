@@ -1,0 +1,73 @@
+{
+  "": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_Reader.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_Reader.o",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/primary.swiftdeps"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/AppDelegate.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/Banana_ReaderApp.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ContentView.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownDocument.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownHTMLRenderer.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownWebView.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/PDFReaderView.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderCardView.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderViewModel.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/TOCView.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/DerivedSources/resource_bundle_accessor.swift": {
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor.dia"
+  }
+}

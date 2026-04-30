@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader'
+relocations:     []
+...

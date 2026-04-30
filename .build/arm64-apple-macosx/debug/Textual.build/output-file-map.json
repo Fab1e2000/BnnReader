@@ -1,0 +1,1356 @@
+{
+  "": {
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/primary.swiftdeps"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Attachment/Attachment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Attachment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Attachment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Attachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Attachment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Attachment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Attachment/AttachmentLoader.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentLoader.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentLoader.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentLoader.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentLoader.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Attachment/ResourceAttachmentLoader.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResourceAttachmentLoader.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResourceAttachmentLoader.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResourceAttachmentLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResourceAttachmentLoader.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResourceAttachmentLoader.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Attachment/URLAttachmentLoader.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/URLAttachmentLoader.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/URLAttachmentLoader.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/URLAttachmentLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/URLAttachmentLoader.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/URLAttachmentLoader.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/ColorEnvironmentValues.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ColorEnvironmentValues.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ColorEnvironmentValues.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ColorEnvironmentValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ColorEnvironmentValues.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ColorEnvironmentValues.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Deprecations.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Deprecations.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Deprecations.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Deprecations~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Deprecations.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Deprecations.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/DynamicColor.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/EmojiProperties.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiProperties.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiProperties.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiProperties~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiProperties.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiProperties.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/FontScaled.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaled.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaled.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaled~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaled.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaled.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/InlineText/InlineStyle+Default.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+Default.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+Default.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+Default~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+Default.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+Default.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/InlineText/InlineStyle+GitHub.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+GitHub.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+GitHub.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+GitHub~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+GitHub.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle+GitHub.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/InlineText/InlineStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/InlineText/InlineText.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineText.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineText.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineText~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineText.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/InlineText.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/AttachmentAttribute.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentAttribute.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentAttribute.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentAttribute~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentAttribute.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentAttribute.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/AttachmentOverlay.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentOverlay.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentOverlay.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentOverlay~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentOverlay.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentOverlay.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/AttachmentView.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentView.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttachmentView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/EmojiAttachment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiAttachment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiAttachment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiAttachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiAttachment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiAttachment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/EmojiResourceAttachment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiResourceAttachment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiResourceAttachment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiResourceAttachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiResourceAttachment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmojiResourceAttachment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/ImageAttachment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageAttachment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageAttachment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageAttachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageAttachment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageAttachment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/ImageResourceAttachment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageResourceAttachment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageResourceAttachment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageResourceAttachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageResourceAttachment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageResourceAttachment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/MathAttachment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathAttachment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathAttachment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathAttachment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathAttachment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathAttachment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Attachment/WithAttachments.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithAttachments.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithAttachments.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithAttachments~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithAttachments.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithAttachments.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/AnyFontProvider+Font.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider+Font.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider+Font.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider+Font~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider+Font.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider+Font.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/AnyFontProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AnyFontProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/FontModifier.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifier.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifier.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifier.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifier.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/FontModifierProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifierProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifierProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifierProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifierProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontModifierProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/FontProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/FontScaleModifier.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleModifier.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleModifier.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleModifier~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleModifier.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleModifier.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/NamedFontProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NamedFontProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NamedFontProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NamedFontProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NamedFontProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NamedFontProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/PlatformFont.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFont.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFont.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFont~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFont.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFont.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/PlatformFontProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFontProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFontProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFontProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFontProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformFontProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/StaticFontModifierProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StaticFontModifierProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StaticFontModifierProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StaticFontModifierProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StaticFontModifierProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StaticFontModifierProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/SystemFontProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SystemFontProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SystemFontProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SystemFontProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SystemFontProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SystemFontProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/TextStyleFontProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextStyleFontProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextStyleFontProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextStyleFontProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextStyleFontProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextStyleFontProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Font/WithFontScaledValue.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithFontScaledValue.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithFontScaledValue.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithFontScaledValue~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithFontScaledValue.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithFontScaledValue.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Formatting/Formatter+HTML.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+HTML.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+HTML.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+HTML~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+HTML.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+HTML.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Formatting/Formatter+PlainText.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+PlainText.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+PlainText.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+PlainText~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+PlainText.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter+PlainText.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Formatting/Formatter.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Formatter.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Formatting/TransferableText.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TransferableText.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TransferableText.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TransferableText~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TransferableText.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TransferableText.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/Array.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Array.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Array.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Array~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Array.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Array.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/AttributedString.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedString.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedString.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedString~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedString.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedString.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/Box.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Box.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Box.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Box~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Box.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Box.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/Bundle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Bundle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Bundle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Bundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Bundle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Bundle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/CGImage+PNGData.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CGImage+PNGData.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CGImage+PNGData.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CGImage+PNGData~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CGImage+PNGData.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CGImage+PNGData.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/Logger.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Logger.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Logger.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Logger~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Logger.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Logger.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/PlatformImage.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformImage.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformImage.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformImage~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformImage.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PlatformImage.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/Range.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Range.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Range.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Range~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Range.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Range.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/Tuple.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Tuple.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Tuple.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Tuple~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Tuple.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Tuple.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Helpers/VerticalAlignment+FirstTextCenter.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/VerticalAlignment+FirstTextCenter.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/VerticalAlignment+FirstTextCenter.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/VerticalAlignment+FirstTextCenter~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/VerticalAlignment+FirstTextCenter.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/VerticalAlignment+FirstTextCenter.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Highlighter/CodeTokenizer.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeTokenizer.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeTokenizer.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeTokenizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeTokenizer.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeTokenizer.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Highlighter/HighlightedTextFragment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlightedTextFragment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlightedTextFragment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlightedTextFragment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlightedTextFragment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlightedTextFragment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Image/Image.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Image.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Image.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Image~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Image.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Image.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Image/ImageLoader.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageLoader.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageLoader.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageLoader~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageLoader.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageLoader.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/Image/ImageView.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageView.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ImageView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/InlineText/WithInlineStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithInlineStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithInlineStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithInlineStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithInlineStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/WithInlineStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/MarkdownParser/Emoji+Preview.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji+Preview.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji+Preview.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji+Preview~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji+Preview.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji+Preview.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/MarkdownParser/PatternProcessor.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternProcessor.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternProcessor.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternProcessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternProcessor.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternProcessor.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/MarkdownParser/PatternTokenizer.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternTokenizer.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternTokenizer.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternTokenizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternTokenizer.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/PatternTokenizer.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/BlockContent.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockContent.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockContent.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockContent~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockContent.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockContent.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/BlockQuote.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuote.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuote.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuote~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuote.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuote.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/BlockSpacingKey.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacingKey.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacingKey.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacingKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacingKey.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacingKey.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/BlockVStack.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockVStack.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockVStack.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockVStack~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockVStack.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockVStack.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/CodeBlock.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlock.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlock.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlock~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlock.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlock.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Heading.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Heading.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Heading.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Heading~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Heading.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Heading.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/ListEnvironment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListEnvironment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListEnvironment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListEnvironment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListEnvironment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListEnvironment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/MathBlock.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathBlock.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathBlock.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathBlock~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathBlock.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathBlock.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/MathCodeBlock.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathCodeBlock.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathCodeBlock.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathCodeBlock~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathCodeBlock.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathCodeBlock.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/OrderedList.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedList.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedList.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedList~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedList.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedList.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Paragraph.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Paragraph.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Paragraph.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Paragraph~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Paragraph.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Paragraph.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/OverflowFrameKey.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowFrameKey.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowFrameKey.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowFrameKey~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowFrameKey.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowFrameKey.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedBlockQuoteStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedBlockQuoteStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedBlockQuoteStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedBlockQuoteStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedBlockQuoteStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedBlockQuoteStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedCodeBlockStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedCodeBlockStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedCodeBlockStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedCodeBlockStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedCodeBlockStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedCodeBlockStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedHeadingStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedHeadingStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedHeadingStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedHeadingStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedHeadingStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedHeadingStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedListItemStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedListItemStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedListItemStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedListItemStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedListItemStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedListItemStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedOrderedListMarker.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedOrderedListMarker.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedOrderedListMarker.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedOrderedListMarker~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedOrderedListMarker.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedOrderedListMarker.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedParagraphStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedParagraphStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedParagraphStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedParagraphStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedParagraphStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedParagraphStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedTableCellStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableCellStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableCellStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableCellStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableCellStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedTableStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedTableStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedThematicBreakStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedThematicBreakStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedThematicBreakStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedThematicBreakStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedThematicBreakStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedThematicBreakStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Style/ResolvedUnorderedListMarker.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedUnorderedListMarker.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedUnorderedListMarker.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedUnorderedListMarker~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedUnorderedListMarker.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ResolvedUnorderedListMarker.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/Table.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Table.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Table.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Table~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Table.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Table.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/TableCell.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCell.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCell.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCell~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCell.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCell.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/ThematicBreak.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreak.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreak.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreak~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreak.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreak.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/StructuredText/UnorderedList.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedList.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedList.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedList~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedList.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedList.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextFragment/TextBuilder.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextBuilder.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextBuilder.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextBuilder.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextBuilder.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextFragment/TextFragment.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextFragment.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextFragment.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextFragment~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextFragment.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextFragment.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/AppKit/AppKitTextInteractionOverlay.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextInteractionOverlay.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextInteractionOverlay.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextInteractionOverlay~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextInteractionOverlay.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextInteractionOverlay.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/AppKit/AppKitTextSelectionInteraction.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionInteraction.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionInteraction.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionInteraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionInteraction.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionInteraction.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/AppKit/AppKitTextSelectionView.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionView.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AppKitTextSelectionView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/AppKit/NSTextInteractionView.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NSTextInteractionView.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NSTextInteractionView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NSTextInteractionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NSTextInteractionView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/NSTextInteractionView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/IndexPath+TextPosition.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/IndexPath+TextPosition.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/IndexPath+TextPosition.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/IndexPath+TextPosition~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/IndexPath+TextPosition.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/IndexPath+TextPosition.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/LayoutDirection+Locale.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LayoutDirection+Locale.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LayoutDirection+Locale.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LayoutDirection+Locale~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LayoutDirection+Locale.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LayoutDirection+Locale.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/LinkAttribute.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LinkAttribute.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LinkAttribute.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LinkAttribute~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LinkAttribute.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LinkAttribute.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/EmptyTextLayoutCollection.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmptyTextLayoutCollection.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmptyTextLayoutCollection.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmptyTextLayoutCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmptyTextLayoutCollection.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/EmptyTextLayoutCollection.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/Layout+Internals.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Layout+Internals.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Layout+Internals.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Layout+Internals~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Layout+Internals.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Layout+Internals.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/LiveTextLayoutCollection.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LiveTextLayoutCollection.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LiveTextLayoutCollection.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LiveTextLayoutCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LiveTextLayoutCollection.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LiveTextLayoutCollection.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection+AttributedStringAccess.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+AttributedStringAccess.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+AttributedStringAccess.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+AttributedStringAccess~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+AttributedStringAccess.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+AttributedStringAccess.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection+Geometry.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Geometry.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Geometry.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Geometry~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Geometry.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Geometry.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection+Positioning.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Positioning.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Positioning.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Positioning~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Positioning.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Positioning.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection+Ranges.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Ranges.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Ranges.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Ranges~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Ranges.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+Ranges.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection+RunSliceTraversal.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+RunSliceTraversal.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+RunSliceTraversal.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+RunSliceTraversal~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+RunSliceTraversal.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+RunSliceTraversal.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection+SelectionRects.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+SelectionRects.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+SelectionRects.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+SelectionRects~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+SelectionRects.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection+SelectionRects.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/TextLayoutCollection.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLayoutCollection.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLayout/View+TextLayoutCollection.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+TextLayoutCollection.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+TextLayoutCollection.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+TextLayoutCollection~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+TextLayoutCollection.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+TextLayoutCollection.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextLinkInteraction.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLinkInteraction.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLinkInteraction.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLinkInteraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLinkInteraction.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextLinkInteraction.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextPosition.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPosition.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPosition.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPosition~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPosition.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPosition.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextRange.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRange.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRange.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRange~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRange.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRange.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextSelectionBackground.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionBackground.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionBackground.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionBackground~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionBackground.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionBackground.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextSelectionCoordinator.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionCoordinator.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionCoordinator.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionCoordinator~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionCoordinator.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionCoordinator.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextSelectionInteraction.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionInteraction.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionInteraction.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionInteraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionInteraction.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionInteraction.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextSelectionModel.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionModel.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionModel.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionModel.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionModel.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/Shared/TextSelectionRect.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRect.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRect.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRect~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRect.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRect.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/TextActivityItemSource.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextActivityItemSource.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextActivityItemSource.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextActivityItemSource~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextActivityItemSource.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextActivityItemSource.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/TextPositionBox.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPositionBox.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPositionBox.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPositionBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPositionBox.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextPositionBox.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/TextRangeBox.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRangeBox.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRangeBox.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRangeBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRangeBox.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextRangeBox.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/TextSelectionRectBox.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRectBox.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRectBox.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRectBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRectBox.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextSelectionRectBox.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/UIKitTextInteractionOverlay.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextInteractionOverlay.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextInteractionOverlay.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextInteractionOverlay~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextInteractionOverlay.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextInteractionOverlay.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/UIKitTextSelectionInteraction.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextSelectionInteraction.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextSelectionInteraction.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextSelectionInteraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextSelectionInteraction.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UIKitTextSelectionInteraction.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/UITextInteractionView+UITextInput.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInput.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInput.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInput~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInput.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInput.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/UITextInteractionView+UITextInputTokenizer.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInputTokenizer.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInputTokenizer.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInputTokenizer~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInputTokenizer.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView+UITextInputTokenizer.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/Internal/TextInteraction/UIKit/UITextInteractionView.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UITextInteractionView.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/MarkdownParser/AttributedStringMarkdownParser.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedStringMarkdownParser.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedStringMarkdownParser.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedStringMarkdownParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedStringMarkdownParser.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/AttributedStringMarkdownParser.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/MarkdownParser/Emoji.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Emoji.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/MarkdownParser/SyntaxExtension.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SyntaxExtension.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SyntaxExtension.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SyntaxExtension~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SyntaxExtension.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SyntaxExtension.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/MarkdownParser/TextualAttributes.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualAttributes.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualAttributes.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualAttributes~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualAttributes.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualAttributes.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/MarkupParser.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MarkupParser.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MarkupParser.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MarkupParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MarkupParser.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MarkupParser.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/MathProperties.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathProperties.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathProperties.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathProperties~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathProperties.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MathProperties.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/HighlighterTheme/HighlighterTheme+Default.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Default.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Default.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Default~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Default.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Default.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/HighlighterTheme/HighlighterTheme+Plain.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Plain.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Plain.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Plain~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Plain.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme+Plain.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/HighlighterTheme/HighlighterTheme.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HighlighterTheme.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/HighlighterTheme/TokenType.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TokenType.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TokenType.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TokenType~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TokenType.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TokenType.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/StructuredText.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StructuredText.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StructuredText.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StructuredText~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StructuredText.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StructuredText.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/BlockQuoteStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuoteStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuoteStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuoteStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuoteStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockQuoteStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/BlockSpacing.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacing.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacing.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacing~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacing.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockSpacing.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/BlockStyleConfiguration.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockStyleConfiguration.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockStyleConfiguration.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockStyleConfiguration~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockStyleConfiguration.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BlockStyleConfiguration.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/CodeBlockProxy.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockProxy.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockProxy.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockProxy~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockProxy.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockProxy.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/CodeBlockStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/CodeBlockStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultBlockQuoteStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultBlockQuoteStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultBlockQuoteStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultBlockQuoteStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultBlockQuoteStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultBlockQuoteStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultCodeBlockStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultCodeBlockStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultCodeBlockStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultCodeBlockStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultCodeBlockStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultCodeBlockStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultHeadingStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultHeadingStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultHeadingStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultHeadingStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultHeadingStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultHeadingStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultListItemStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultListItemStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultListItemStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultListItemStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultListItemStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultListItemStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultParagraphStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultParagraphStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultParagraphStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultParagraphStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultParagraphStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultParagraphStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultTableCellStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableCellStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableCellStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableCellStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableCellStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DefaultTableStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DefaultTableStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DividerThematicBreakStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DividerThematicBreakStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DividerThematicBreakStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DividerThematicBreakStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DividerThematicBreakStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DividerThematicBreakStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/DynamicColor+Default.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+Default.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+Default.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+Default~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+Default.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+Default.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Default/OverflowTableStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowTableStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowTableStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowTableStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowTableStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OverflowTableStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/DynamicColor+GitHub.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+GitHub.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+GitHub.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+GitHub~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+GitHub.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DynamicColor+GitHub.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubBlockQuoteStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubBlockQuoteStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubBlockQuoteStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubBlockQuoteStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubBlockQuoteStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubBlockQuoteStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubCodeBlockStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubCodeBlockStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubCodeBlockStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubCodeBlockStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubCodeBlockStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubCodeBlockStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubHeadingStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubHeadingStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubHeadingStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubHeadingStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubHeadingStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubHeadingStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubParagraphStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubParagraphStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubParagraphStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubParagraphStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubParagraphStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubParagraphStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubTableCellStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableCellStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableCellStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableCellStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableCellStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubTableStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubTableStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/GitHub/GitHubThematicBreak.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubThematicBreak.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubThematicBreak.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubThematicBreak~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubThematicBreak.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/GitHubThematicBreak.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/HeadingStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HeadingStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HeadingStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HeadingStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HeadingStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/HeadingStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/ListItemStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListItemStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListItemStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListItemStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListItemStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ListItemStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/OrderedListMarker.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedListMarker.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedListMarker.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedListMarker~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedListMarker.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/OrderedListMarker.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Overflow.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Overflow.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Overflow.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Overflow~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Overflow.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Overflow.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/ParagraphStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ParagraphStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ParagraphStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ParagraphStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ParagraphStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ParagraphStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/Style.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Style.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Style.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Style~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Style.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/Style.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/TableCellStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCellStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCellStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCellStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCellStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableCellStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/TableLayout.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableLayout.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableLayout.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableLayout~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableLayout.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableLayout.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/TableStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TableStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/ThematicBreakStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreakStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreakStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreakStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreakStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ThematicBreakStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/StructuredText/Style/UnorderedListMarker.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedListMarker.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedListMarker.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedListMarker~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedListMarker.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnorderedListMarker.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextEnvironmentValues.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextEnvironmentValues.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextEnvironmentValues.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextEnvironmentValues~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextEnvironmentValues.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextEnvironmentValues.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Color/BackgroundColorProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BackgroundColorProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BackgroundColorProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BackgroundColorProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BackgroundColorProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BackgroundColorProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Color/ForegroundColorProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ForegroundColorProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ForegroundColorProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ForegroundColorProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ForegroundColorProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ForegroundColorProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/BoldProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BoldProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BoldProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BoldProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BoldProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BoldProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/FontLeadingProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontLeadingProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontLeadingProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontLeadingProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontLeadingProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontLeadingProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/FontProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/FontScaleProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontScaleProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/FontWeightProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWeightProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWeightProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWeightProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWeightProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWeightProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/FontWidthProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWidthProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWidthProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWidthProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWidthProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/FontWidthProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/ItalicProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ItalicProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ItalicProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ItalicProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ItalicProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/ItalicProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/LowercaseSmallCapsProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LowercaseSmallCapsProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LowercaseSmallCapsProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LowercaseSmallCapsProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LowercaseSmallCapsProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/LowercaseSmallCapsProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/MonospacedDigitProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedDigitProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedDigitProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedDigitProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedDigitProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedDigitProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/MonospacedProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/MonospacedProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/SmallCapsProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SmallCapsProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SmallCapsProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SmallCapsProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SmallCapsProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/SmallCapsProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Font/UppercaseSmallCapsProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UppercaseSmallCapsProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UppercaseSmallCapsProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UppercaseSmallCapsProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UppercaseSmallCapsProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UppercaseSmallCapsProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/LineStyle/StrikethroughStyleProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StrikethroughStyleProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StrikethroughStyleProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StrikethroughStyleProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StrikethroughStyleProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/StrikethroughStyleProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/LineStyle/UnderlineStyleProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnderlineStyleProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnderlineStyleProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnderlineStyleProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnderlineStyleProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/UnderlineStyleProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Space/BaselineOffsetProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BaselineOffsetProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BaselineOffsetProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BaselineOffsetProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BaselineOffsetProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/BaselineOffsetProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Space/KerningProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/KerningProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/KerningProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/KerningProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/KerningProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/KerningProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/Space/TrackingProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TrackingProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TrackingProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TrackingProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TrackingProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TrackingProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/TextProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextProperty/TupleTextProperty.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TupleTextProperty.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TupleTextProperty.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TupleTextProperty~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TupleTextProperty.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TupleTextProperty.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/TextualNamespace.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualNamespace.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualNamespace.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualNamespace~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualNamespace.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/TextualNamespace.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/textual/Sources/Textual/View+Textual.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+Textual.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+Textual.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+Textual~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+Textual.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/View+Textual.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/resource_bundle_accessor.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/Textual.build/resource_bundle_accessor.dia"
+  }
+}

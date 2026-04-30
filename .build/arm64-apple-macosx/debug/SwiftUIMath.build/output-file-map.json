@@ -1,0 +1,313 @@
+{
+  "": {
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/primary.swiftdeps"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Font.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Font.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Font.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Font~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Font.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Font.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/CGContext+DisplayNode.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGContext+DisplayNode.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGContext+DisplayNode.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGContext+DisplayNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGContext+DisplayNode.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGContext+DisplayNode.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayAccent.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayAccent.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayAccent.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayAccent~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayAccent.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayAccent.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayFraction.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayFraction.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayFraction.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayFraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayFraction.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayFraction.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayGlyph.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyph.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyph.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyph~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyph.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyph.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayGlyphRun.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyphRun.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyphRun.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyphRun~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyphRun.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayGlyphRun.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayLargeOperator.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLargeOperator.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLargeOperator.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLargeOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLargeOperator.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLargeOperator.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayLine.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLine.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLine.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLine~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLine.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayLine.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayList.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayList.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayList.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayList~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayList.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayList.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayNode.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayNode.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayNode.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayNode.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayNode.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayProvider.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayProvider.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayProvider.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayProvider~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayProvider.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayProvider.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayRadical.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayRadical.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayRadical.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayRadical~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayRadical.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayRadical.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayShiftedNode.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayShiftedNode.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayShiftedNode.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayShiftedNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayShiftedNode.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayShiftedNode.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/DisplayTextRun.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayTextRun.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayTextRun.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayTextRun~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayTextRun.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DisplayTextRun.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/GraphicsContext+DisplayNode.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/GraphicsContext+DisplayNode.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/GraphicsContext+DisplayNode.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/GraphicsContext+DisplayNode~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/GraphicsContext+DisplayNode.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/GraphicsContext+DisplayNode.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Display/Typesetter.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Typesetter.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Typesetter.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Typesetter~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Typesetter.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Typesetter.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Font/FontMetrics.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontMetrics.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontMetrics.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontMetrics~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontMetrics.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontMetrics.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Font/FontRegistry.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontRegistry.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontRegistry.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontRegistry~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontRegistry.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontRegistry.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Font/FontTable.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontTable.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontTable.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontTable~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontTable.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/FontTable.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Font/PlatformFont.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/PlatformFont.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/PlatformFont.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/PlatformFont~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/PlatformFont.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/PlatformFont.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Helpers/CGColor+HexString.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGColor+HexString.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGColor+HexString.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGColor+HexString~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGColor+HexString.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/CGColor+HexString.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Helpers/KeyBox.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/KeyBox.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/KeyBox.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/KeyBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/KeyBox.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/KeyBox.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Helpers/ReadWriteLockIsolated.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ReadWriteLockIsolated.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ReadWriteLockIsolated.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ReadWriteLockIsolated~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ReadWriteLockIsolated.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ReadWriteLockIsolated.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Helpers/Unicode.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Unicode.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Unicode.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Unicode~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Unicode.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Unicode.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/AtomFactory.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomFactory.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomFactory.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomFactory~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomFactory.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomFactory.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/AtomList.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomList.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomList.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomList~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomList.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/AtomList.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Accent.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Accent.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Accent.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Accent~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Accent.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Accent.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Color.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Color.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Color.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Color~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Color.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Color.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/ColorBox.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ColorBox.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ColorBox.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ColorBox~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ColorBox.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/ColorBox.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Fraction.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Fraction.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Fraction.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Fraction~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Fraction.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Fraction.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Inner.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Inner.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Inner.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Inner~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Inner.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Inner.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/LargeOperator.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/LargeOperator.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/LargeOperator.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/LargeOperator~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/LargeOperator.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/LargeOperator.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Overline.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Overline.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Overline.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Overline~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Overline.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Overline.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Radical.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Radical.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Radical.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Radical~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Radical.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Radical.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Space.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Space.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Space.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Space~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Space.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Space.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Style.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Style.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Style.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Style~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Style.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Style.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Table.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Table.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Table.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Table~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Table.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Table.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/TextColor.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TextColor.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TextColor.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TextColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TextColor.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TextColor.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Atoms/Underline.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Underline.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Underline.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Underline~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Underline.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Underline.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Internal/Syntax/Parser.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Parser.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Parser.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Parser~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Parser.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Parser.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/Math.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Math.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Math.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Math~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Math.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/Math.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/RenderingMode.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/RenderingMode.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/RenderingMode.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/RenderingMode~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/RenderingMode.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/RenderingMode.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/checkouts/swiftui-math/Sources/SwiftUIMath/TypesettingStyle.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TypesettingStyle.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TypesettingStyle.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TypesettingStyle~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TypesettingStyle.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/TypesettingStyle.dia"
+  },
+  "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/DerivedSources/resource_bundle_accessor.swift": {
+    "dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/resource_bundle_accessor.d",
+    "object": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/resource_bundle_accessor.swift.o",
+    "swiftmodule": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/resource_bundle_accessor~partial.swiftmodule",
+    "swift-dependencies": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/resource_bundle_accessor.swiftdeps",
+    "diagnostics": "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/debug/SwiftUIMath.build/resource_bundle_accessor.dia"
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "builtTestProducts" : [
+
+  ],
+  "copyCommands" : {
+    "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader_Banana_Reader.bundle/BnnReader.png" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/Resources/BnnReader.png"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader_Banana_Reader.bundle/BnnReader.png"
+        }
+      ]
+    },
+    "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader_Banana_Reader.bundle/Info.plist" : {
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Info.plist"
+        }
+      ],
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader_Banana_Reader.bundle/Info.plist"
+        }
+      ]
+    }
+  },
+  "explicitTargetDependencyImportCheckingMode" : {
+    "none" : {
+
+    }
+  },
+  "generatedSourceTargetSet" : [
+
+  ],
+  "pluginDescriptions" : [
+
+  ],
+  "swiftCommands" : {
+    "C.Banana_Reader-arm64-apple-macosx-release.module" : {
+      "executable" : "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "fileList" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/sources",
+      "importPath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Modules",
+      "inputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/Banana_ReaderApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownDocument.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownHTMLRenderer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownWebView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/PDFReaderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderCardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/TOCView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/DerivedSources/resource_bundle_accessor.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+        },
+        {
+          "kind" : "virtual",
+          "name" : "<Banana_Reader-arm64-apple-macosx-release.module-resources>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/sources"
+        }
+      ],
+      "isLibrary" : false,
+      "moduleName" : "Banana_Reader",
+      "moduleOutputPath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Modules/Banana_Reader.swiftmodule",
+      "objects" : [
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView.swift.o",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor.swift.o"
+      ],
+      "otherArguments" : [
+        "-target",
+        "arm64-apple-macosx26.0",
+        "-whole-module-optimization",
+        "-num-threads",
+        "6",
+        "-serialize-diagnostics",
+        "-O",
+        "-j6",
+        "-DSWIFT_PACKAGE",
+        "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+        "-module-cache-path",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/ModuleCache",
+        "-parseable-output",
+        "-Xfrontend",
+        "-entry-point-function-name",
+        "-Xfrontend",
+        "Banana_Reader_main",
+        "-color-diagnostics",
+        "-swift-version",
+        "6",
+        "-I",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-L",
+        "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+        "-plugin-path",
+        "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+        "-sdk",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-g",
+        "-Xcc",
+        "-isysroot",
+        "-Xcc",
+        "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+        "-Xcc",
+        "-fPIC",
+        "-Xcc",
+        "-g",
+        "-package-name",
+        "bnnreader"
+      ],
+      "outputFileMapPath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/output-file-map.json",
+      "outputs" : [
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Modules/Banana_Reader.swiftmodule"
+        }
+      ],
+      "prepareForIndexing" : false,
+      "sources" : [
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/AppDelegate.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/Banana_ReaderApp.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ContentView.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownDocument.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownHTMLRenderer.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownWebView.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/PDFReaderView.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderCardView.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderViewModel.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/TOCView.swift",
+        "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/DerivedSources/resource_bundle_accessor.swift"
+      ],
+      "tempsPath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build",
+      "wholeModuleOptimization" : true
+    }
+  },
+  "swiftFrontendCommands" : {
+
+  },
+  "swiftTargetScanArgs" : {
+    "Banana_Reader" : [
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc",
+      "-module-name",
+      "Banana_Reader",
+      "-package-name",
+      "bnnreader",
+      "-c",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/AppDelegate.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/Banana_ReaderApp.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ContentView.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownDocument.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownHTMLRenderer.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownWebView.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/PDFReaderView.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderCardView.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderViewModel.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/TOCView.swift",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/DerivedSources/resource_bundle_accessor.swift",
+      "-I",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Modules",
+      "-target",
+      "arm64-apple-macosx26.0",
+      "-whole-module-optimization",
+      "-num-threads",
+      "6",
+      "-serialize-diagnostics",
+      "-O",
+      "-j6",
+      "-DSWIFT_PACKAGE",
+      "-DSWIFT_MODULE_RESOURCE_BUNDLE_AVAILABLE",
+      "-module-cache-path",
+      "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/ModuleCache",
+      "-parseable-output",
+      "-Xfrontend",
+      "-entry-point-function-name",
+      "-Xfrontend",
+      "Banana_Reader_main",
+      "-color-diagnostics",
+      "-swift-version",
+      "6",
+      "-I",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-L",
+      "/Library/Developer/CommandLineTools/Library/Developer/Frameworks",
+      "-plugin-path",
+      "/Library/Developer/CommandLineTools/usr/lib/swift/host/plugins/testing",
+      "-sdk",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-g",
+      "-Xcc",
+      "-isysroot",
+      "-Xcc",
+      "/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk",
+      "-Xcc",
+      "-fPIC",
+      "-Xcc",
+      "-g",
+      "-package-name",
+      "bnnreader",
+      "-driver-use-frontend-path",
+      "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+    ]
+  },
+  "targetDependencyMap" : {
+    "Banana_Reader" : [
+
+    ]
+  },
+  "testDiscoveryCommands" : {
+
+  },
+  "testEntryPointCommands" : {
+
+  },
+  "traitConfiguration" : {
+    "default" : {
+
+    }
+  },
+  "writeCommands" : {
+    "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/sources" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<sources-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/AppDelegate.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/Banana_ReaderApp.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ContentView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownDocument.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownHTMLRenderer.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/MarkdownWebView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/PDFReaderView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderCardView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/ReaderViewModel.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/Sources/Banana_Reader/TOCView.swift"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/DerivedSources/resource_bundle_accessor.swift"
+        }
+      ],
+      "outputFilePath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/sources"
+    },
+    "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.product/Objects.LinkFileList" : {
+      "alwaysOutOfDate" : false,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<link-file-list>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/AppDelegate.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/Banana_ReaderApp.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ContentView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownDocument.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownHTMLRenderer.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/MarkdownWebView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/PDFReaderView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderCardView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/ReaderViewModel.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/TOCView.swift.o"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.build/resource_bundle_accessor.swift.o"
+        }
+      ],
+      "outputFilePath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/Banana_Reader.product/Objects.LinkFileList"
+    },
+    "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt" : {
+      "alwaysOutOfDate" : true,
+      "inputs" : [
+        {
+          "kind" : "virtual",
+          "name" : "<swift-get-version>"
+        },
+        {
+          "kind" : "file",
+          "name" : "/Library/Developer/CommandLineTools/usr/bin/swiftc"
+        }
+      ],
+      "outputFilePath" : "/Users/n015/PERSONAL/BnnSoft/BnnReader/.build/arm64-apple-macosx/release/swift-version--1AB21518FC5DEDBE.txt"
+    }
+  }
+}
